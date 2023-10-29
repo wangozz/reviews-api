@@ -1,0 +1,12 @@
+{
+    "reviews": [
+      { "id": 1, "user": "John Doe", "text": "Great product!", "rating": 5 },
+      { "id": 2, "user": "Jane Smith", "text": "Excellent service!", "rating": 4 },
+      { "id": 3, "user": "Bob Johnson", "text": "Highly recommended!", "rating": 5 },
+      { "id": 4, "user": "Alice Williams", "text": "Very satisfied.", "rating": 4 },
+      { "id": 5, "user": "Charlie Brown", "text": "Impressed with the quality.", "rating": 5 },
+      { "id": 6, "user": "Eve Davis", "text": "Outstanding experience!", "rating": 5 },
+      { "id": 7, "user": "Frank Wilson", "text": "Will definitely come back.", "rating": 4 }
+    ]
+  }
+  
